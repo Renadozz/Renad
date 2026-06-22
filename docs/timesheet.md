@@ -9,8 +9,8 @@
 
 | Date | Start Time | End Time | Break | Hours | Task / Description |
 |---|---:|---:|---:|---:|---|
-| YYYY-MM-DD | 09:00 | 12:00 | 00:15 | 2:45 | Project setup |
-| YYYY-MM-DD | 13:00 | 16:30 | 00:30 | 3:00 | Developed feature |
+| 2026-06-22 | 6:30 PM | 7:00 PM | 00:00 | 0:30 | Editing the note's ideas |
+| 2026-06-22 | 7:30 PM | 9:50 PM | 00:00 | 2:20 | repository setup |
 | YYYY-MM-DD |  |  |  |  |  |
 | YYYY-MM-DD |  |  |  |  |  |
 | YYYY-MM-DD |  |  |  |  |  |
