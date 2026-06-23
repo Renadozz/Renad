@@ -1,16 +1,31 @@
+TODO:
+- get in touch with Markdown documents
+- sort the scenes (which one do u wanna have, where to start, where u can go from scene A to (B,C,D))
+- how do I store my data so that they will get saved?
+- Category in your backpack (weapon, armor, potions, questItem, randomItems)
+- think about a skillsystem
+- what can my character equip?
+- think about active and passive skills (passive(Defender + 5 defense) = always active, active(slash) = when u trigger it)
+- what range does the skill have?
+- think about a map
+- think about the battlesystem, how many enemies can spawn and the positions
+- think about items (like: sword with atk + magic dmg, or shield with resistance, or add passive skills to weapon)
+- think about the grade of the weapon (old, common, rare, epic, legend, mythic)(item+1, to item+5)
+
+
 Main Menu:
-Start Game
+Start Game - (Load Game, New Game)
 Inventory
 Rest (Restore HP and MP)
 Settings
 
 Top of the Screen:
 Gold
-Level
+Level (EXP?)
 
 Bottom of the Screen:
-Quests
-Skills
+Quests (Guild - where u can take quests)
+Skills (Healing, Defend, Attack, Magicskills, Bowskills, Buffskills, Debuffskills)
 
 Player Character:
 The game has one hero only.
@@ -18,31 +33,38 @@ The game has one hero only.
 Stats:
 HP (Health Points)
 MP (Mana Points)
-Attack
+Magic
+Attack (phys)
+Defense (phys)
+Magic defense
+evasion
+resistance
+speed?
 Level
 EXP
+EXP for skills
 
 Leveling Up:
 When the player levels up:
-HP increases
-Attack increases
-New skills become available
+stats increases (not every stat)
+New skills become available - skillsystem where u lvl up skills with exp?
 
 Story Progression:
-Instead of 10 chapters, i will use only 3 chapters:
+10 chapters - are for quests parts, not for defeading (mostly)
 Chapter 1 – Goblin Forest
 Defeat Goblins and complete basic quests.
 
 Chapter 2 – Bandit Camp
 Fight stronger enemies and gain more experience.
 
+
 Chapter 3 – Dragon Cave
 Defeat the Dragon Boss and finish the game.
 
-Quests:
+Quests: (many diffrent ones)
 Only using Main Quests for the first version.
 Examples:
-Defeat 3 Goblins
+Defeat 3 Goblins (mostly a guild quest type)
 Collect 100 Gold
 Defeat the Bandit Leader
 Defeat the Dragon
@@ -50,8 +72,9 @@ Defeat the Dragon
 Rewards:
 EXP
 Gold
+Items
 
-Enemies:
+Enemies: (at least 30) (goblin - bow, magic, sword, dagger, healer) - boss monster
 -Goblin
 Weak enemy
 Easy to defeat
@@ -67,7 +90,8 @@ Simple turn-based combat.
 -Player Actions
 1. Attack
 2. Skill
-3. Use Potion
+3. Use Item
+
 
 -Battle Flow
 1. Player attacks first.
@@ -79,6 +103,7 @@ Show:
 Player HP
 Player MP
 Enemy HP
+Whos turn it is
 
 Skills:
 -Power Strike
@@ -94,6 +119,8 @@ Contains only:
 Health Potion
 Mana Potion
 
+Smithy:
+
 Market:
 Players can buy:
 Health Potions
@@ -108,8 +135,7 @@ Continue Button
 
 Defeat Screen:
 Displays:
-Retry
-Return to Town
+Return to Town + lose exp?
 
 NPCs:
 -Guide NPC
