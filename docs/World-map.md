@@ -54,7 +54,6 @@ A harsh desert containing ruins and bandit hideouts.
 - Bandit
 - Bandit Archer
 - Bandit leader
-- Sand monsters
 
 ---
 

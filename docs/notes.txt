@@ -1,16 +1,16 @@
 TODO:
-- get in touch with Markdown documents
-- sort the scenes (which one do u wanna have, where to start, where u can go from scene A to (B,C,D))
-- how do I store my data so that they will get saved?
-- Category in your backpack (weapon, armor, potions, questItem, randomItems)
-- think about a skillsystem
-- what can my character equip?
-- think about active and passive skills (passive(Defender + 5 defense) = always active, active(slash) = when u trigger it)
-- what range does the skill have?
-- think about a map
+- get in touch with Markdown documents (done)
+- sort the scenes (which one do u wanna have, where to start, where u can go from scene A to (B,C,D)) (done)
+- how do I store my data so that they will get saved? (done)
+- Category in your backpack (weapon, armor, potions, questItem, randomItems) (done)
+- think about a skillsystem (done)
+- what can my character equip? (done)
+- think about active and passive skills (passive(Defender + 5 defense) = always active, active(slash) = when u trigger it) (done)
+- what range does the skill have? (done)
+- think about a map (done)
 - think about the battlesystem, how many enemies can spawn and the positions
-- think about items (like: sword with atk + magic dmg, or shield with resistance, or add passive skills to weapon)
-- think about the grade of the weapon (old, common, rare, epic, legend, mythic)(item+1, to item+5)
+- think about items (like: sword with atk + magic dmg, or shield with resistance, or add passive skills to weapon) (done)
+- think about the grade of the weapon (old, common, rare, epic, legend, mythic)(item+1, to item+5) (done)
 
 
 Main Menu:
