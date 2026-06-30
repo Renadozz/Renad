@@ -13,7 +13,7 @@
 | 2026-06-22 | 7:30 PM | 9:50 PM | 00:00 | 2:20 | repository setup |
 | 2026-06-23 | 8:40 PM | 10:20 PM | 00:00 | 1:40 | adding things in the docs |
 | 2026-06-24 | 7:10 PM | 9:20 PM | 00:00 | 2:10 | adding map + main character status |
-| YYYY-MM-DD |  |  |  |  |  |
+| 2026-06-25 | 7:20 PM | 9:50 PM | 00:20 | 2:10 | updating some notes + adding story and inventory system |
 | YYYY-MM-DD |  |  |  |  |  |
 | YYYY-MM-DD |  |  |  |  |  |
 
